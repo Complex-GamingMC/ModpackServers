@@ -1,0 +1,19 @@
+{
+    "servers": [
+      {
+        "name": "§bComplex (US)",
+        "ip": "pokemon.mc-complex.com",
+        "order": 0
+      },
+      {
+        "name": "§eComplex (EU)",
+        "ip": "pixel.eu.mc-complex.com",
+        "order": 1
+      },
+      {
+        "name": "§cBlaze Gaming",
+        "ip": "hub.mc-blaze.com",
+        "order": 2
+      }
+    ]
+  }
