@@ -2,12 +2,12 @@
     "servers": [
         {
             "name": "§bComplex (US)",
-            "ip": "pixel.mc-complex.com",
+            "ip": "technic.mc-complex.com",
             "order": 0
         },
         {
             "name": "§eComplex (EU)",
-            "ip": "pixel.mc-complex.com",
+            "ip": "technic.mc-complex.com",
             "order": 1
         },
         {
