@@ -9,11 +9,6 @@
             "name": "§eComplex (EU)",
             "ip": "pokemon.mc-complex.com",
             "order": 1
-        },
-        {
-            "name": "§cBlaze Gaming",
-            "ip": "hub.mc-blaze.com",
-            "order": 2
         }
     ]
 }
