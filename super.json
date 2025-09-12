@@ -9,6 +9,11 @@
             "name": "§eComplex (EU)",
             "ip": "super.mc-complex.com",
             "order": 1
-        }
+        },
+        {
+            "name": "§eBlaze Gaming",
+            "ip": "super.mc-blaze.com",
+            "order": 1
+        },
     ]
 }
