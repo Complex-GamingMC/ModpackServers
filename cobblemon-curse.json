@@ -4,16 +4,6 @@
             "name": "§bComplex (US)",
             "ip": "cobble.mc-complex.com",
             "order": 0
-        },
-        {
-            "name": "§eComplex (EU)",
-            "ip": "cobble.mc-complex.com",
-            "order": 1
-        },
-        {
-            "name": "§cBlaze Gaming",
-            "ip": "cobble.mc-blaze.com",
-            "order": 2
         }
     ]
 }
