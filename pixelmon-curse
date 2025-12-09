@@ -1,0 +1,14 @@
+{
+    "servers": [
+        {
+            "name": "§bComplex (US)",
+            "ip": "reforged.mc-complex.com",
+            "order": 0
+        },
+        {
+            "name": "§eComplex (EU)",
+            "ip": "reforged.mc-complex.com",
+            "order": 1
+        }
+    ]
+}
