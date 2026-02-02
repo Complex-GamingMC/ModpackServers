@@ -1,0 +1,9 @@
+{
+    "servers": [
+        {
+            "name": "§bComplex",
+            "ip": "cobblesmp.mc-complex.com",
+            "order": 0
+        }
+    ]
+}
